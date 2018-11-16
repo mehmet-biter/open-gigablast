@@ -10,24 +10,6 @@ See <a href=html/faq.html>html/faq.html</a>
 for all administrative documentation including 
 the quick start instructions.
 
-Alternatively, visit http://www.gigablast.com/faq.html
-
-
-
-CODE ARCHITECTURE
------------------
-
-See <a href=html/developer.html>html/developer.html</a> 
-for all code documentation.
-
-Alternatively, visit http://www.gigablast.com/developer.html
-
-
-
-CONTACT
--------
-
-Contact me for feature requests or help in general. I will work for free
-for good use cases. mattdwells@hotmail.com.
+Alternatively, visit http://www.gigablast.com/
 
 
